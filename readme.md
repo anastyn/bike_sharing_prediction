@@ -2,4 +2,4 @@ A simple neural network (with a single hidden layer) that estimates the number o
 The forward and back propagation steps are implemented with NumPy without using any deep learning frameworks.
 
 The dataset is too small to get a meaningful prediction, but it was a good exercise to get familiar with neural nets.
-More about the dataset here: Bike-Sharing-Dataset/Readme.txt
+More about the dataset [here](Bike-Sharing-Dataset/Readme.txt)
